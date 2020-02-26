@@ -1,2 +1,3 @@
-# 2011Practice
-Practice for the EECS2011 midterm
+# Data-Structures-Algorithms
+
+A collection of data structures and algorithms in Java
